@@ -71,7 +71,7 @@ public class Pizza {
             if(isTakeAwayAdded)
          this.bill+= "Paperbag Added: "+"20"+"\n";
 
-          this.bill+= "Total Price:"+this.price+"\n";
+          this.bill+= "Total Price: "+this.price+"\n";
             isBillGenerated=true;
         }
         // your code goes here
